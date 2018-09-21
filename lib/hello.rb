@@ -7,7 +7,7 @@ def hello_t(array)
       i = i + 1
     end
 def hello
-  
+
 end
     array
   else
